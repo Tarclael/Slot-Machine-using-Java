@@ -6,7 +6,7 @@ Players can top up their balance, spin the reels, and try their luck with differ
 ✨ Features
 
 * Add balance with input validation (only accepts valid numeric input).
-* Spin reels with random symbols (e.g. 🍒, 🍋, 🍇, ⭐).
+* Spin reels with random symbols (e.g. 🍒, 🍋, 🍇, 🔔).
 * Winning logic based on matching symbols (pairs or triples).
 * Clear feedback messages for wins, losses, and invalid inputs.
 * Looping gameplay until the player decides to quit.
