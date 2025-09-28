@@ -16,9 +16,9 @@ Players can top up their balance, spin the reels, and try their luck with differ
 2. Make sure you have Java (JDK 8+) installed.
 3. Open the project in any IDE or run via terminal.
 # Compile
-javac SlotMachine.java
+javac slotMachine.java
 # Run
-java SlotMachine
+java slotMachine
 
 ## 🚀 How to Play
 
