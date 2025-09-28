@@ -1,4 +1,4 @@
-🎰 Slot Machine Game using Java
+🎰 Fruit Frenzy -- Slot Machine Game using Java
 
 A simple console-based Slot Machine game built with Java.
 Players can top up their balance, spin the reels, and try their luck with different symbol combinations.
@@ -10,6 +10,16 @@ Players can top up their balance, spin the reels, and try their luck with differ
 * Winning logic based on matching symbols (pairs or triples).
 * Clear feedback messages for wins, losses, and invalid inputs.
 * Looping gameplay until the player decides to quit.
+
+⚙️Setup
+1. Download and extract the ZIP file
+2. Make sure you have Java (JDK 8+) installed.
+3. Open the project in any IDE or run via terminal.
+# Compile
+javac SlotMachine.java
+
+# Run
+java SlotMachine
 
 🚀 How to Play
 
