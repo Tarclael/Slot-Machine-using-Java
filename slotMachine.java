@@ -8,19 +8,19 @@ public class slotMachine {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         /*
-         *  🍒🍒 (exactly two cherries, any order) → 0.5× your bet
+         *  🍒🍒 → 0.5× bet
 
-            🍒🍒🍒 → 1.5× your bet
+            🍒🍒🍒 → 1.5× bet
 
-            🍋🍋🍋 → 1× your bet (break-even)
+            🍋🍋🍋 → 1× bet (break-even)
 
-            🍉🍉🍉 → 2× your bet
+            🍉🍉🍉 → 2× bet
 
-            🔔🔔🔔 → 10× your bet
+            🔔🔔🔔 → 10× bet
 
-            7️⃣7️⃣7️⃣ → 100× your bet
+            7️⃣7️⃣7️⃣ → 100× bet
 
-            Everything else → 0× (lose)
+            lainnya → 0× (kalah)
          */
 
         /*
